@@ -13,3 +13,7 @@ td {
 tr:first-child {
   background: #efefef;
 }
+
+.holyday {
+  color: red;
+}
