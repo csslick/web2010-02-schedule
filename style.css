@@ -1,0 +1,15 @@
+body {
+  padding: 100px 50px;
+}
+
+th {
+  width: 260px;
+}
+
+td {
+  width: 100px;
+}
+
+tr:first-child {
+  background: #efefef;
+}
